@@ -1,5 +1,5 @@
 {
-  "name": "gulp browserify boilerplate",
+  "name": "gulp-browserify-boilerplate",
   "version": "1.0.0",
   "description": "Gulp browserify boilerplate based on jakemmarsh/angularjs-gulp-browserify-boilerplate",
   "main": "",
